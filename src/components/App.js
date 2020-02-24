@@ -5,7 +5,7 @@ import GithubCorner from 'react-github-corner';
 const App = () => {
   return (
     <>
-      <GithubCorner href="https://github.com/TaylorBeeston" />
+      <GithubCorner href="https://github.com/TaylorBeeston/GithubAPITest" />
       <Github />
     </>
   );
